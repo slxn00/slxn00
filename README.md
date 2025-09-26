@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
+<div align=center>
 C
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Spring&logoColor=white">
 자바
@@ -15,6 +16,7 @@ JavaScript
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 React
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+</div>
 
 
 <!--
