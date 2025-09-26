@@ -10,27 +10,27 @@
 
 <div align="center">
 
-## ❀ Backend ❀
+##  Backend 
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-## ❀ Frontend ❀
+##  Frontend 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## ❀ Tools ❀
+##  Tools 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion" />
 </p>
 
-## ❀ Design ❀
+##  Design 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-## ❀ Communication ❀
+##  Communication 
 <p>
   <a href="https://discord.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
