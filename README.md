@@ -31,6 +31,7 @@
   <a href="https://instagram.com/y.zan.ox" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+  
   <!-- Gmail -->
   <a href="mailto:s2522@e-mirim.hs.kr">
     <img src="https://skillicons.dev/icons?i=gmail" />
