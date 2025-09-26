@@ -31,13 +31,6 @@
   <a href="https://instagram.com/y.zan.ox" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-
-  <!-- Velog (SVG 고정 주소 사용) -->  
-  <a href="https://velog.io/@s2.log" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/velog.svg" height="40" width="40" />
-  </a>
-
-
   <!-- Gmail -->
   <a href="mailto:s2522@e-mirim.hs.kr">
     <img src="https://skillicons.dev/icons?i=gmail" />
