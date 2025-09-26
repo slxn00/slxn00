@@ -1,7 +1,7 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Welcome%20to%20Seoyeon's%20GitHub!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
-## 안녕하세요. 사용자의 니즈를 실현하는 프론트 엔드 개발자, 민서연 입니다.
+# 안녕하세요. 사용자의 니즈를 실현하는 프론트 엔드 개발자, 민서연 입니다.
 ## ✿ Backend ✿
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
