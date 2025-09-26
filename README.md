@@ -1,28 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Welcome%20to%20Seoyeon's%20GitHub!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
-# 안녕하세요. 사용자의 니즈를 실현하는 프론트 엔드 개발자, 민서연 입니다.
-## ✿ Backend ✿
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
+
+## Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-## ✿ Frontend ✿
+## Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## ✿ Tools ✿
+## Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion" />
 </p>
 
-## ✿ Design ✿
+## Design
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-## ✿ Communication ✿
+## Communication
 <p>
   <a href="https://discord.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -35,6 +35,6 @@
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
 
 </div>
