@@ -23,18 +23,13 @@
 ## Communication  
 <p>
   <img src="https://skillicons.dev/icons?i=discord" />
-</p>
-<p>
-  <!-- Instagram -->
-  <a href="https://instagram.com/여기에_인스타아이디" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <!-- Gmail -->
-  <a href="mailto:여기에_이메일주소@gmail.com">
+    <a href="mailto:s2522@e-mirim.hs.kr">
     <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
+        <a href="https://instagram.com/y.zan.ox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+      </a>
+    </a>
 </p>
-
 </div>
 
 
