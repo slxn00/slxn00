@@ -1,13 +1,28 @@
-
-
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
-<p align="center">
-  <a href="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
+## 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
+
+## 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+## 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,notion" />
+</p>
+
+## 🎨 Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+## 📡 Communication
+<p>
+  <img src="https://skillicons.dev/icons?i=discord,instagram,gmail" />
+</p>
+
 
 
 <!--
