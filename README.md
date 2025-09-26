@@ -22,13 +22,12 @@
 
 ## Communication  
 <p>
-  <img src="https://skillicons.dev/icons?i=discord" />
+  <img src="https://skillicons.dev/icons?i=discord" />  
+    <a href="mailto:s2522@e-mirim.hs.kr">
+      <img src="https://skillicons.dev/icons?i=gmail" />
+    </a>
+  </p>
 </p>  
-  <!-- Gmail -->
-  <a href="mailto:s2522@e-mirim.hs.kr">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
 ## About Me!
 <p>
   <!-- Instagram -->
