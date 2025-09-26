@@ -1,27 +1,49 @@
-## 💻 Backend
+<div align="center">
+
+## 💻 Backend  
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-## 🎨 Frontend
+## 🎨 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## 🛠️ Tools
+## 🛠️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,notion,git" />
 </p>
 
-## 🎨 Design
+## 🎨 Design  
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-## 📡 Communication
+## 📡 Communication  
 <p>
-  <img src="https://skillicons.dev/icons?i=discord,instagram,gmail" />
+  <img src="https://skillicons.dev/icons?i=discord" />
 </p>
+
+## 🌐 Social & Contact  
+<p>
+  <!-- Instagram -->
+  <a href="https://instagram.com/y.zan.ox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+
+  <!-- Velog -->
+  <a href="https://velog.io/@여기에_벨로그아이디" target="_blank">
+    <img src="https://skillicons.dev/icons?i=velog" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:s2522@e-mirim.hs.kr">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+</div>
 
 
 
