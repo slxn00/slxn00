@@ -24,7 +24,7 @@
 <p>
   <img src="https://skillicons.dev/icons?i=discord" />  
     <a href="mailto:s2522@e-mirim.hs.kr">
-      <h>    </h>
+      <h1> </h1>
       <img src="https://skillicons.dev/icons?i=gmail" />
     </a>
   </p>
