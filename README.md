@@ -23,20 +23,18 @@
 ## Communication  
 <p>
   <img src="https://skillicons.dev/icons?i=discord" />
-</p>
-
-## Social & Contact  
-<p>
-  <!-- Instagram -->
-  <a href="https://instagram.com/y.zan.ox" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  
+</p>  
   <!-- Gmail -->
   <a href="mailto:s2522@e-mirim.hs.kr">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
+## About Me!
+<p>
+  <!-- Instagram -->
+  <a href="https://instagram.com/y.zan.ox" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
 
 </div>
 
