@@ -1,50 +1,51 @@
 <div align="center">
 
-## Backend  
+<img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif"
+    height="300"
+     width="100%" 
+     style="border-radius:12px;" />
+
+# Welcome to 서연's GitHub ૮ ˶ᵔ ᵕ ᵔ˶ ა 
+</div>
+
+<div align="center">
+
+## ❀ Backend ❀
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-## Frontend  
+## ❀ Frontend ❀
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-## Tools  
+## ❀ Tools ❀
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion" />
 </p>
 
-## Design  
+## ❀ Design ❀
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-## Communication  
+## ❀ Communication ❀
 <p>
-  <img src="https://skillicons.dev/icons?i=discord" />
-    <a href="mailto:s2522@e-mirim.hs.kr">
+  <a href="https://discord.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="mailto:s2522@e-mirim.hs.kr">
     <img src="https://skillicons.dev/icons?i=gmail" />
-        <a href="https://instagram.com/y.zan.ox" target="_blank">
+  </a>
+  <a href="https://instagram.com/y.zan.ox" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
-      </a>
-    </a>
+  </a>
 </p>
+
+⋆ ────── ✦ ────── ⋆  
+
+`Thanks for visiting my profile!`  
+✿ Feel free to follow & connect ✿  
+
 </div>
-
-
-
-<!--
-**slxn00/slxn00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
