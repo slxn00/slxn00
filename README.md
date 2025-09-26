@@ -1,36 +1,28 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/originals/6b/8b/9d/6b8b9d3c4c75eaafb73285ddd310a346.gif"
-    height="300"
-     width="100%" 
-     style="border-radius:12px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=180&section=header&text=Welcome%20to%20Seoyeon's%20GitHub!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
-# Welcome to 서연's GitHub ૮ ˶ᵔ ᵕ ᵔ˶ ა 
-</div>
-
-<div align="center">
-
-##  Backend 
+## ✿ Backend ✿
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
 
-##  Frontend 
+## ✿ Frontend ✿
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-##  Tools 
+## ✿ Tools ✿
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion" />
 </p>
 
-##  Design 
+## ✿ Design ✿
 <p>
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-##  Communication 
+## ✿ Communication ✿
 <p>
   <a href="https://discord.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
@@ -43,9 +35,6 @@
   </a>
 </p>
 
-⋆ ────── ✦ ────── ⋆  
-
-`Thanks for visiting my profile!`  
-✿ Feel free to follow & connect ✿  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=120&section=footer"/>
 
 </div>
