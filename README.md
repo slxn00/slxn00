@@ -12,7 +12,7 @@
 
 ## 🛠️ Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion,git" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,notion" />
 </p>
 
 ## 🎨 Design  
