@@ -20,22 +20,23 @@
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </p>
 
-## Communication  
-<p>
-  <img src="https://skillicons.dev/icons?i=discord" />  
-    <a href="mailto:s2522@e-mirim.hs.kr">
-      <img src="https://skillicons.dev/icons?i=gmail" />
-    </a>
-  </p>
-</p>  
-## About Me!
+## Social & Contact  
 <p>
   <!-- Instagram -->
-  <a href="https://instagram.com/y.zan.ox" target="_blank">
+  <a href="https://instagram.com/여기에_인스타아이디" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</div>
 
+  <!-- Velog (공식 SVG 사용) -->
+  <a href="https://velog.io/@여기에_벨로그아이디" target="_blank">
+    <img src="https://velog.velcdn.com/images/velog_logo.svg" height="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:여기에_이메일주소@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
 </div>
 
