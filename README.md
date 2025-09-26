@@ -34,8 +34,6 @@
   <a href="https://instagram.com/y.zan.ox" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
-</p>
-
 </div>
 
 
