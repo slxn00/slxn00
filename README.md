@@ -41,7 +41,7 @@
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=slxn00&utm_content=line">
   <img
-    src="https://render.gitanimals.org/lines/slxn00?pet-id=760692345508410568"
+    src="https://render.gitanimals.org/lines/slxn00?pet-id=761501913855504336"
     width="600"
     height="120"
   />
