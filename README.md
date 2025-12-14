@@ -1,8 +1,6 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Aspiring%20Front-End%20Developer&fontSize=34&fontColor=fff&fontAlignY=35" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35" />
-
-## Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" />
 </p>
@@ -38,12 +36,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
 
 </div>
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=slxn00&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/slxn00?pet-id=761501913855504336"
-    width="600"
-    height="120"
-  />
-</a>
-  
