@@ -5,12 +5,12 @@
   
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python" width="288"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python" width="255"/>
 </p>
 
 ## Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="288"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="255"/>
 </p>
 
 ## Tools
@@ -20,7 +20,7 @@
 
 ## Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="288"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="255"/>
 </p>
 
 ## Communication
