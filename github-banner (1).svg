@@ -1,0 +1,141 @@
+<svg width="1584" height="540" viewBox="0 0 1584 540" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .eyebrow {
+        font-family: 'Outfit', Georgia, sans-serif;
+        font-size: 11px; font-weight: 400; letter-spacing: 4px;
+        fill: rgba(255,255,255,0.5); text-anchor: middle;
+        animation: fadeUp 1s 0.1s cubic-bezier(0.16,1,0.3,1) both;
+      }
+      .title {
+        font-family: 'Outfit', Georgia, sans-serif;
+        font-size: 58px; font-weight: 900; letter-spacing: -1.5px;
+        fill: #ffffff; text-anchor: middle;
+        animation: fadeUp 1s 0.2s cubic-bezier(0.16,1,0.3,1) both;
+      }
+      .subtitle-en {
+        font-family: 'Outfit', Georgia, sans-serif;
+        font-size: 15px; font-weight: 300; letter-spacing: 2px;
+        fill: rgba(255,255,255,0.45); text-anchor: middle;
+        animation: fadeUp 1s 0.3s cubic-bezier(0.16,1,0.3,1) both;
+      }
+      .chip-bg { fill: rgba(255,255,255,0.05); }
+      .chip-bd { fill: none; stroke: rgba(255,255,255,0.12); stroke-width: 1; }
+      .chip-txt {
+        font-family: 'Outfit', Georgia, sans-serif;
+        font-size: 17px; font-weight: 400;
+        fill: rgba(255,255,255,0.8);
+        dominant-baseline: central; text-anchor: start;
+      }
+      .row1 { animation: slideLeft  28s linear infinite; }
+      .row2 { animation: slideRight 34s linear infinite; }
+      @keyframes slideLeft  { from { transform: translateX(0); }    to { transform: translateX(-50%); } }
+      @keyframes slideRight { from { transform: translateX(-50%); } to { transform: translateX(0); }    }
+      @keyframes fadeUp {
+        from { opacity:0; transform: translateY(14px); }
+        to   { opacity:1; transform: translateY(0); }
+      }
+    </style>
+    <linearGradient id="fL" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="fR" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="1"/>
+    </linearGradient>
+    <linearGradient id="dv" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0"/>
+      <stop offset="25%"  stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="50%"  stop-color="#fff" stop-opacity="0.7"/>
+      <stop offset="75%"  stop-color="#fff" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="gl" x1="0" y1="0" x2="0.3" y2="1">
+      <stop offset="0%"   stop-color="#fff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="r1c"><rect x="0" y="296" width="1584" height="84"/></clipPath>
+    <clipPath id="r2c"><rect x="0" y="396" width="1584" height="84"/></clipPath>
+    <clipPath id="bc"><rect width="1584" height="540" rx="20"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#bc)">
+    <rect width="1584" height="540" fill="#000" rx="20"/>
+    <rect width="1584" height="540" fill="url(#gl)" rx="20"/>
+    <rect width="1584" height="540" rx="20" fill="none" stroke="rgba(255,255,255,0.1)" stroke-width="1"/>
+
+    <text x="792" y="115" class="eyebrow">✦   portfolio   ✦</text>
+    <text x="792" y="195" class="title">Front-end Developer</text>
+    <text x="792" y="232" class="subtitle-en">turning users' needs into reality</text>
+
+    <rect x="0" y="284" width="1584" height="1" fill="url(#dv)"/>
+
+    <!-- Row 1 -->
+    <g clip-path="url(#r1c)">
+      <g class="row1">
+        <rect x="8"    y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="8"    y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="34"   cy="334" r="7" fill="#F7DF1E"/><text x="52"   y="334" class="chip-txt">JavaScript</text>
+        <rect x="196"  y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="196"  y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="222"  cy="334" r="7" fill="#3178C6"/><text x="240"  y="334" class="chip-txt">TypeScript</text>
+        <rect x="384"  y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="384"  y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="410"  cy="334" r="7" fill="#61DAFB"/><text x="428"  y="334" class="chip-txt">React</text>
+        <rect x="572"  y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="572"  y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="598"  cy="334" r="7" fill="#3776AB"/><text x="616"  y="334" class="chip-txt">Python</text>
+        <rect x="760"  y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="760"  y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="786"  cy="334" r="7" fill="#ED8B00"/><text x="804"  y="334" class="chip-txt">Java</text>
+        <rect x="948"  y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="948"  y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="974"  cy="334" r="7" fill="#A8B9CC"/><text x="992"  y="334" class="chip-txt">C++</text>
+        <rect x="1136" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="1136" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1162" cy="334" r="7" fill="#339933"/><text x="1180" y="334" class="chip-txt">Node.js</text>
+        <rect x="1324" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="1324" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1350" cy="334" r="7" fill="#E34F26"/><text x="1368" y="334" class="chip-txt">HTML</text>
+        <rect x="1512" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="1512" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1538" cy="334" r="7" fill="#1572B6"/><text x="1556" y="334" class="chip-txt">CSS</text>
+        <rect x="1700" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="1700" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1726" cy="334" r="7" fill="#F05032"/><text x="1744" y="334" class="chip-txt">Git</text>
+        <rect x="1888" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="1888" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1914" cy="334" r="7" fill="#F24E1E"/><text x="1932" y="334" class="chip-txt">Figma</text>
+        <rect x="2076" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="2076" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2102" cy="334" r="7" fill="#31A8FF"/><text x="2120" y="334" class="chip-txt">Photoshop</text>
+        <rect x="2264" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="2264" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2290" cy="334" r="7" fill="#FF9A00"/><text x="2308" y="334" class="chip-txt">Illustrator</text>
+        <rect x="2452" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="2452" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2478" cy="334" r="7" fill="#F7DF1E"/><text x="2496" y="334" class="chip-txt">JavaScript</text>
+        <rect x="2640" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="2640" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2666" cy="334" r="7" fill="#3178C6"/><text x="2684" y="334" class="chip-txt">TypeScript</text>
+        <rect x="2828" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="2828" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2854" cy="334" r="7" fill="#61DAFB"/><text x="2872" y="334" class="chip-txt">React</text>
+        <rect x="3016" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3016" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3042" cy="334" r="7" fill="#3776AB"/><text x="3060" y="334" class="chip-txt">Python</text>
+        <rect x="3204" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3204" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3230" cy="334" r="7" fill="#ED8B00"/><text x="3248" y="334" class="chip-txt">Java</text>
+        <rect x="3392" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3392" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3418" cy="334" r="7" fill="#A8B9CC"/><text x="3436" y="334" class="chip-txt">C++</text>
+        <rect x="3580" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3580" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3606" cy="334" r="7" fill="#339933"/><text x="3624" y="334" class="chip-txt">Node.js</text>
+        <rect x="3768" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3768" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3794" cy="334" r="7" fill="#E34F26"/><text x="3812" y="334" class="chip-txt">HTML</text>
+        <rect x="3956" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="3956" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3982" cy="334" r="7" fill="#1572B6"/><text x="4000" y="334" class="chip-txt">CSS</text>
+        <rect x="4144" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="4144" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4170" cy="334" r="7" fill="#F05032"/><text x="4188" y="334" class="chip-txt">Git</text>
+        <rect x="4332" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="4332" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4358" cy="334" r="7" fill="#F24E1E"/><text x="4376" y="334" class="chip-txt">Figma</text>
+        <rect x="4520" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="4520" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4546" cy="334" r="7" fill="#31A8FF"/><text x="4564" y="334" class="chip-txt">Photoshop</text>
+        <rect x="4708" y="300" width="170" height="68" rx="34" class="chip-bg"/><rect x="4708" y="300" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4734" cy="334" r="7" fill="#FF9A00"/><text x="4752" y="334" class="chip-txt">Illustrator</text>
+      </g>
+    </g>
+
+    <!-- Row 2 -->
+    <g clip-path="url(#r2c)">
+      <g class="row2">
+        <rect x="8"    y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="8"    y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="34"   cy="434" r="7" fill="#FF9A00"/><text x="52"   y="434" class="chip-txt">Illustrator</text>
+        <rect x="196"  y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="196"  y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="222"  cy="434" r="7" fill="#31A8FF"/><text x="240"  y="434" class="chip-txt">Photoshop</text>
+        <rect x="384"  y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="384"  y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="410"  cy="434" r="7" fill="#F24E1E"/><text x="428"  y="434" class="chip-txt">Figma</text>
+        <rect x="572"  y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="572"  y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="598"  cy="434" r="7" fill="#F05032"/><text x="616"  y="434" class="chip-txt">Git</text>
+        <rect x="760"  y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="760"  y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="786"  cy="434" r="7" fill="#1572B6"/><text x="804"  y="434" class="chip-txt">CSS</text>
+        <rect x="948"  y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="948"  y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="974"  cy="434" r="7" fill="#E34F26"/><text x="992"  y="434" class="chip-txt">HTML</text>
+        <rect x="1136" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="1136" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1162" cy="434" r="7" fill="#339933"/><text x="1180" y="434" class="chip-txt">Node.js</text>
+        <rect x="1324" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="1324" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1350" cy="434" r="7" fill="#A8B9CC"/><text x="1368" y="434" class="chip-txt">C++</text>
+        <rect x="1512" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="1512" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1538" cy="434" r="7" fill="#ED8B00"/><text x="1556" y="434" class="chip-txt">Java</text>
+        <rect x="1700" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="1700" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1726" cy="434" r="7" fill="#3776AB"/><text x="1744" y="434" class="chip-txt">Python</text>
+        <rect x="1888" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="1888" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="1914" cy="434" r="7" fill="#61DAFB"/><text x="1932" y="434" class="chip-txt">React</text>
+        <rect x="2076" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="2076" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2102" cy="434" r="7" fill="#3178C6"/><text x="2120" y="434" class="chip-txt">TypeScript</text>
+        <rect x="2264" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="2264" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2290" cy="434" r="7" fill="#F7DF1E"/><text x="2308" y="434" class="chip-txt">JavaScript</text>
+        <rect x="2452" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="2452" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2478" cy="434" r="7" fill="#FF9A00"/><text x="2496" y="434" class="chip-txt">Illustrator</text>
+        <rect x="2640" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="2640" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2666" cy="434" r="7" fill="#31A8FF"/><text x="2684" y="434" class="chip-txt">Photoshop</text>
+        <rect x="2828" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="2828" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="2854" cy="434" r="7" fill="#F24E1E"/><text x="2872" y="434" class="chip-txt">Figma</text>
+        <rect x="3016" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3016" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3042" cy="434" r="7" fill="#F05032"/><text x="3060" y="434" class="chip-txt">Git</text>
+        <rect x="3204" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3204" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3230" cy="434" r="7" fill="#1572B6"/><text x="3248" y="434" class="chip-txt">CSS</text>
+        <rect x="3392" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3392" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3418" cy="434" r="7" fill="#E34F26"/><text x="3436" y="434" class="chip-txt">HTML</text>
+        <rect x="3580" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3580" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3606" cy="434" r="7" fill="#339933"/><text x="3624" y="434" class="chip-txt">Node.js</text>
+        <rect x="3768" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3768" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3794" cy="434" r="7" fill="#A8B9CC"/><text x="3812" y="434" class="chip-txt">C++</text>
+        <rect x="3956" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="3956" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="3982" cy="434" r="7" fill="#ED8B00"/><text x="4000" y="434" class="chip-txt">Java</text>
+        <rect x="4144" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="4144" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4170" cy="434" r="7" fill="#3776AB"/><text x="4188" y="434" class="chip-txt">Python</text>
+        <rect x="4332" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="4332" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4358" cy="434" r="7" fill="#61DAFB"/><text x="4376" y="434" class="chip-txt">React</text>
+        <rect x="4520" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="4520" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4546" cy="434" r="7" fill="#3178C6"/><text x="4564" y="434" class="chip-txt">TypeScript</text>
+        <rect x="4708" y="400" width="170" height="68" rx="34" class="chip-bg"/><rect x="4708" y="400" width="170" height="68" rx="34" class="chip-bd"/><circle cx="4734" cy="434" r="7" fill="#F7DF1E"/><text x="4752" y="434" class="chip-txt">JavaScript</text>
+      </g>
+    </g>
+
+    <rect x="0"    y="283" width="100" height="257" fill="url(#fL)"/>
+    <rect x="1484" y="283" width="100" height="257" fill="url(#fR)"/>
+  </g>
+</svg>
