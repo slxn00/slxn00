@@ -24,7 +24,7 @@
 
 **design**
 
-<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 <br/>
 
