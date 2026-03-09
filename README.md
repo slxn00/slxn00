@@ -5,7 +5,7 @@
   
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,python" width="144"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python" width="288"/>
 </p>
 
 ## Frontend
@@ -20,7 +20,7 @@
 
 ## Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="216"/>
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="288"/>
 </p>
 
 ## Communication
