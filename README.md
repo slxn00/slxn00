@@ -1,6 +1,5 @@
+![banner](./github-banner.svg)
 <div align="center">
-<p align="center">
-  <img src="./github-banner.svg" alt="banner" />
 </p>
 
   
