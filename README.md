@@ -2,6 +2,8 @@
 <img src="./banner.svg" width="100%"/>
 <br>
 <br>
+  
+## Backend
 <p>
   <img src="https://skillicons.dev/icons?i=java,c" width="144"/>
 </p>
@@ -29,6 +31,8 @@
   <a href="https://instagram.com/y.zan.ox" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="72"/>
   </a>
+  <br>
+  <br>
   <a href="https://discord.com" target="_blank">
 <img src="./footer.svg" width="100%"/>
   </a>
