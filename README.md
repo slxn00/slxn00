@@ -5,7 +5,7 @@
   
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c" width="144"/>
+  <img src="https://skillicons.dev/icons?i=java,c,python" width="144"/>
 </p>
 
 ## Frontend
