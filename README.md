@@ -1,41 +1,64 @@
 <div align="center">
-<p align="center">
-  <img src="./github-banner (1).svg" alt="banner" />
-</p>
 
-  
-## Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,python" width="200"/>
-</p>
+<img src="./github-banner (1).svg" alt="banner" width="100%" />
 
-## Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="250"/>
-</p>
+<br/>
+<br/>
+<br/>
 
-## Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,notion" width="250"/>
-</p>
+---
 
-## Design
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="200"/>
-</p>
+<br/>
 
-## Communication
-<p>
-  <a href="mailto:s2522@e-mirim.hs.kr">
-    <img src="https://skillicons.dev/icons?i=gmail" width="30"/>
-  </a>
-  <a href="https://instagram.com/y.zan.ox" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="30"/>
-  </a>
-  <br>
-  <br>
-  <a href="https://discord.com" target="_blank">
-<img src="./footer.svg" width="100%"/>
-  </a>
-</p>
+**backend**
+
+<img src="https://skillicons.dev/icons?i=java,c,python&theme=dark" />
+
+<br/>
+
+**frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+
+<br/>
+
+**design**
+
+<img src="https://skillicons.dev/icons?i=figma,ps,ai&theme=dark" />
+
+<br/>
+
+**tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,notion&theme=dark" />
+
+<br/>
+
+---
+
+<br/>
+
+
+
+**contact**
+
+<a href="mailto:s2522@e-mirim.hs.kr">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+</a>
+&nbsp;
+<a href="https://instagram.com/y.zan.ox">
+  <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+</a>
+&nbsp;
+<a href="https://discord.com">
+  <img src="https://skillicons.dev/icons?i=discord&theme=dark" />
+</a>
+
+<br/>
+<br/>
+
+<a href="https://discord.com">
+  <img src="./footer.svg" width="100%"/>
+</a>
+
 </div>
