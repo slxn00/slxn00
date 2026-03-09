@@ -1,38 +1,36 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=180&section=header&text=Aspiring%20Front-End%20Developer&fontSize=34&fontColor=fff&fontAlignY=35" />
-
+<img src="./banner.svg" width="100%"/>
+<br>
+<br>
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c" />
+  <img src="https://skillicons.dev/icons?i=java,c" width="144"/>
 </p>
 
 ## Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" width="288"/>
 </p>
 
 ## Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,notion" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,notion" width="288"/>
 </p>
 
 ## Design
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" width="216"/>
 </p>
 
 ## Communication
 <p>
-  <a href="mailto:@s2522@e-mirim.hs.kr">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+  <a href="mailto:s2522@e-mirim.hs.kr">
+    <img src="https://skillicons.dev/icons?i=gmail" width="72"/>
   </a>
   <a href="https://instagram.com/y.zan.ox" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="72"/>
   </a>
   <a href="https://discord.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
+<img src="./footer.svg" width="100%"/>
   </a>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
-
 </div>
