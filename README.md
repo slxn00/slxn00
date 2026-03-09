@@ -1,7 +1,8 @@
 <div align="center">
-<img src="./banner.svg" width="100%"/>
-<br>
-<br>
+<p align="center">
+  <img src="./github-banner.svg" alt="banner" />
+</p>
+
   
 ## Backend
 <p>
