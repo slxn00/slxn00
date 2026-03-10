@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./github-banner (1).svg" alt="banner" width="100%" />
+<img src="https://raw.githubusercontent.com/slxn00/slxn00/main/github-banner%20(1).svg" alt="banner" width="100%" />
 
 <br/>
 <br/>
