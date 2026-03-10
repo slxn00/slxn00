@@ -3,8 +3,6 @@
 <img src="https://cdn.jsdelivr.net/gh/slxn00/slxn00@main/github-banner%20(1).svg" alt="banner" width="100%" />
 
 <br/>
-<br/>
-<br/>
 
 ---
 
