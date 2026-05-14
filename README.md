@@ -44,7 +44,7 @@
   <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
 </a>
 &nbsp;
-<a href="https://instagram.com/y.zan.ox">
+<a href="https://instagram.com/oxeonv">
   <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
 </a>
 &nbsp;
